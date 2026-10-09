@@ -6,15 +6,15 @@ A desktop student-record management application built with **C++17, Qt 6 Widgets
 
 ### Dashboard — Light Mode
 
-![Dashboard Light Mode](screenshots/dashboard)
+![Dashboard Light Mode](screenshots/dashboard.png)
 
 ### Dashboard — Dark Mode
 
-![Dashboard Dark Mode](screenshots/dark-theme)
+![Dashboard Dark Mode](screenshots/dark-theme.png)
 
 ### Student Records
 
-![Student Add Option](screenshots/student-add)
+![Student Add Option](screenshots/student-add.png)
 
 ## Features
 
