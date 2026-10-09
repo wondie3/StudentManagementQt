@@ -1,0 +1,8 @@
+build/
+deploy/
+*.exe
+*.dll
+*.db
+*.sqlite
+*.sqlite3
+CMakeUserPresets.json
