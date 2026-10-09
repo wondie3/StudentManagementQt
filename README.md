@@ -2,6 +2,20 @@
 
 A desktop student-record management application built with **C++17, Qt 6 Widgets, and SQLite**. It is designed as a complete coursework project, with a dashboard-style GUI rather than a console menu.
 
+## Screenshots
+
+### Dashboard — Light Mode
+
+![Dashboard Light Mode](screenshots/dashboard.png)
+
+### Dashboard — Dark Mode
+
+![Dashboard Dark Mode](screenshots/dark-theme.png)
+
+### Student Records
+
+![Student Add Option](screenshots/student-add.png)
+
 ## Features
 
 - Login dialog with multiple local user accounts and role-based account management
